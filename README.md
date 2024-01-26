@@ -14,16 +14,22 @@ For this project, I wanted to compare what the Youtube search results would be f
 In order to draw a successful comparison, I decided to have 3 datasets and maps. One of these represents a control, another represents Trump, and the third represents Biden.
 
 
+![Control Word Cloud](img/election-control.png)
+This is our control wordcloud.
 
 
+![Biden Word Cloud](img/Biden.png)
+This is the Biden Word Cloud
 
 
-
-
-
+![Trump Word Cloud](img/trump.png)
+This is the Trump Word Cloud
 
 
 
 
 
 Dataset links:
+[Control "Presidential Election" Dataset](assets/presidential-election.csv)
+["Presidential Election Trump" Dataset](assets/presidential-election-trump.csv)
+["Presidential Election Biden" Dataset](assets/presidential-election-biden.csv)
